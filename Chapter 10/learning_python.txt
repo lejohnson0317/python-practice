@@ -1,0 +1,4 @@
+In Python you can store information in variables.
+In Python you can use for loops to get information from lists.
+In Python you can call a function to update information.
+In Python you can create a class to manage objects.
